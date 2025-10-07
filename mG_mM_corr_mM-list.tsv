@@ -1,0 +1,15 @@
+nan	
+ko03010  Ribosome	
+ko00970  Aminoacyl-tRNA biosynthesis	C00013,ATP,tRNA(Ser),Diphosphate,C00002,L-Seryl-tRNA(Ser),C16636,C00020,C01650,tRNA(Sec),C06481,C02553,L-Serine,AMP,C00065,L-Seryl-tRNA(Sec),C00013,C00037,ATP,Diphosphate,Glycine,C00002,C01642,C00020,C02412,AMP,Glycyl-tRNA(Gly),tRNA(Gly)
+ko00190  Oxidative phosphorylation	Ubiquinol,Acceptor,C00390,C00028,Ubiquinone,C00399,Reduced acceptor,C00030
+ko00471  D-Glutamine and D-glutamate metabolism	ATP,C00002,C01212,C00217,Orthophosphate,C00009,ADP,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate,C00692,UDP-N-acetylmuramoyl-L-alanine,D-Glutamate,C00008
+ko03060  Protein export	
+ko00030  Pentose phosphate pathway	ATP,C00002,C00117,C00020,D-Ribose 5-phosphate,C00119,AMP,5-Phospho-alpha-D-ribose 1-diphosphate
+ko04112  Cell cycle - Caulobacter	
+ko00230  Purine metabolism	,NAD,NADH,Xanthosine 5'-phosphate,IMP,C16618,C00001,6-Thioinosine-5'-monophosphate,C04646,H,H2O,C00655,C00080,C00130,6-Thioxanthine 5'-monophosphate,C00003,C00004,C00342,H2O,C00035,C00112,Thioredoxin disulfide,C00001,C00206,GDP,Thioredoxin,dCDP,CDP,C00008,C00015,C00705,UDP,C00361,ADP,dUDP,dADP,dGDP,C01346,C00343
+ko00195  Photosynthesis	
+ko02010  ABC transporters	
+ko03018  RNA degradation	
+ko00410  beta-Alanine metabolism	C00011,beta-Alanine,L-Aspartate,C00049,C00099,CO2
+ko00450  Selenocompound metabolism	C00013,C00073,tRNA(Met),ATP,Diphosphate,C00002,C01647,Selenomethionyl-tRNA(Met),C02430,C05336,C00020,L-Methionyl-tRNA,C05335,AMP,L-Selenomethionine,L-Methionine
+ko00020  Citrate cycle (TCA cycle)	C00001,C00149,H2O,C00122,(S)-Malate,Fumarate,ATP,C00002,Orthophosphate,C00042,C00009,ADP,Succinyl-CoA,C00091,Itaconyl-CoA,C00490,C00531,C00010,Itaconate,C00008,CoA,Succinate
