@@ -17,3 +17,7 @@ README.md
 
 data_processing/
 
+snp/
+
+visualization/
+
