@@ -1,0 +1,6 @@
+GAM edf: 1.001
+GAM F: 13.069
+GAM p: 0.000517
+Quadratic R2: 0.148
+Quadratic peak T: 31.489
+GAM peak T: 33.35
