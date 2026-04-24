@@ -15,8 +15,5 @@ README.md
 
 05_multiomics_integration/
 
-06_figures/
-
 data_processing/
 
-supplementary_tables/
